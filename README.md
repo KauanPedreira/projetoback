@@ -107,22 +107,7 @@ projetoback/
 ```
 
 ---
-
-## 🤝 Próximos Passos e Melhorias Futuras
-
-Este projeto é um ponto de partida. Algumas ideias para evoluções futuras incluem:
-
-* [ ] **Implementar API REST:** Desenvolver uma API REST utilizando Express.js para permitir interações via HTTP.
-* [ ] **Adicionar Autenticação e Autorização:** Implementar mecanismos de segurança para proteger os endpoints da API.
-* [ ] **Melhorar Interface CLI:** Utilizar bibliotecas como `inquirer.js` para criar menus mais interativos e amigáveis.
-* [ ] **Testes Automatizados:** Adicionar testes unitários e de integração utilizando frameworks como Jest ou Mocha.
-* [ ] **Upload de Vídeos:** Implementar a funcionalidade de upload de arquivos de vídeo e armazenamento em serviços como AWS S3.
-* [ ] **Paginação:** Adicionar paginação na listagem de vídeos, especialmente para grandes volumes de dados.
-* [ ] **Validação de Dados:** Implementar validações mais robustas para os dados de entrada.
-
----
-
-## 👤 Autor
+# 👤 Autor
 
 **Kauan Pedreira**
 *Estudante de Programação Web Back-end*

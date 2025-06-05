@@ -21,7 +21,7 @@ Siga os passos abaixo para executar o projeto em seu ambiente local:
     ```
 
 3.  **Configure o MongoDB:**
-    * Certifique-se de que você tem uma instância do MongoDB rodando localmente. A string de conexão padrão utilizada pelo projeto é `mongodb://localhost:27017/nome-do-banco`.
+    * Certifique-se de que você tem uma instância do MongoDB rodando localmente. A string de conexão padrão utilizada pelo projeto é `mongodb://localhost:27017/streamingDB`.
     * Caso sua configuração seja diferente, ajuste a string de conexão no arquivo `src/db.js`.
 
 4.  **Execute o Projeto:**

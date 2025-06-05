@@ -105,7 +105,6 @@ projetoback/
 ├── app.js              # Ponto de entrada da aplicação, interface CLI e fluxo principal
 ├── package.json        # Metadados do projeto, dependências e scripts NPM
 ├── package-lock.json   # Registro exato das versões das dependências
-└── README.md           # Documentação do projeto (este arquivo)
 ```
 
 ---

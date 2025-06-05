@@ -110,9 +110,8 @@ projetoback/
 # 👤 Autor
 
 **Kauan Pedreira**
-*Estudante de Programação Web Back-end*
+*Estudante de Engenharia de Software*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-github/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauanpedreira/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KauanPedreira)
 
-*(Substitua `https://www.linkedin.com/in/seu-linkedin/` e `https://github.com/seu-github/` pelos seus links reais)*

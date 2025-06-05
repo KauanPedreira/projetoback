@@ -11,8 +11,7 @@ Siga os passos abaixo para executar o projeto em seu ambiente local:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/KauanPedreira/projetoback.git](https://github.com/KauanPedreira/projetoback.git)
-    cd projetoback
+    git clone https://github.com/KauanPedreira/projetoback.git
     ```
 2.  **Instale as Dependências:**
     Navegue até a pasta do projeto e execute o comando abaixo para instalar todas as dependências listadas no arquivo `package.json`.
@@ -85,6 +84,9 @@ Vídeo inserido com sucesso! ID: 645d5c3a18f4b92d4b2f123a
 ```
 
 ---
+## 📌 Imagens em Execução
+![Captura de tela 2025-06-05 202651](https://github.com/user-attachments/assets/831885fa-29e6-4b94-b35c-f0e35926dc14)
+![Captura de tela 2025-06-05 202445](https://github.com/user-attachments/assets/40b0a33d-30af-46ae-8b7f-64e63ca81d1b)
 
 ## 🗂️ Estrutura do Projeto
 

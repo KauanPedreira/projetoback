@@ -1,6 +1,6 @@
 # 🎥 Projeto Back-end de Streaming de Vídeos
 
-> Sistema back-end simples para gerenciamento de vídeos, feito com foco em aprendizado e boas práticas em **Node.js** e **MongoDB**.  
+> Sistema back-end para gerenciamento de vídeos, feito com foco em aprendizado e boas práticas em **Node.js** e **MongoDB**.  
 > Implementa operações CRUD para vídeos, com interface via terminal e estrutura modular para futura integração com frameworks como Express.
 
 ---

@@ -95,16 +95,25 @@ A organização das pastas e arquivos do projeto é a seguinte:
 ```
 projetoback/
 │
-├── src/
-│   ├── video.js        # Lógica e modelo para a entidade Vídeo (operações CRUD)
-│   ├── db.js           # Configuração e conexão com o banco de dados MongoDB
-│   └── logger.js       # Módulo para registro de logs de erros
+├── backup-streamingDB/      # Backups do banco de dados MongoDB da aplicação
 │
-├── logs/               # Pasta para armazenamento dos arquivos de log de erros
+├── logs/                    # Pasta para armazenamento dos arquivos de log de erros
+│   └── errors.log           # Registro de erros ocorridos durante a execução
 │
-├── app.js              # Ponto de entrada da aplicação, interface CLI e fluxo principal
-├── package.json        # Metadados do projeto, dependências e scripts NPM
-├── package-lock.json   # Registro exato das versões das dependências
+├── node_modules/            # Dependências e bibliotecas instaladas via NPM
+│
+├── src/                     # Código-fonte principal da aplicação
+│   ├── db.js                # Configuração e conexão com o banco de dados MongoDB
+│   ├── Video.js             # Lógica e modelo para a entidade Vídeo (operações CRUD)
+│   ├── User.js              # Lógica e modelo para a entidade Usuário (cadastro, busca, etc.)
+│   ├── Playlist.js          # Lógica e modelo para a entidade Playlist de vídeos
+│   └── Logger.js            # Módulo para registro de logs de erros
+│
+├── .gitignore               # Arquivo que define o que deve ser ignorado pelo Git
+├── estrutura.markdown       # Documento descritivo com a estrutura e propósito do projeto
+├── package.json             # Metadados do projeto, dependências e scripts NPM
+├── package-lock.json        # Registro exato das versões das dependências instaladas
+└── README.md                # Descrição geral do projeto e instruções de uso
 ```
 
 ---

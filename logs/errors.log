@@ -19,3 +19,25 @@
     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
     at async main (file:///C:/Users/kauan/OneDrive/Desktop/projetoback/app.js:180:9)
 
+[2025-06-06T20:33:45.166Z] Error: Você deve passar uma lista de vídeos válida.
+    at Video.insertMany (file:///C:/Users/kauan/OneDrive/Desktop/projetobac/projetoback/src/video.js:85:13)
+    at inserirListaDeVideos (file:///C:/Users/kauan/OneDrive/Desktop/projetobac/projetoback/app.js:123:31)
+    at main (file:///C:/Users/kauan/OneDrive/Desktop/projetobac/projetoback/app.js:244:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+[2025-06-06T20:54:10.630Z] Error: Email válido é obrigatório.
+    at Usuario.validate (file:///C:/Users/kauan/OneDrive/Desktop/projetobac/projetoback/src/usuario.js:19:13)
+    at Usuario.save (file:///C:/Users/kauan/OneDrive/Desktop/projetobac/projetoback/src/usuario.js:28:12)
+    at inserirUsuario (file:///C:/Users/kauan/OneDrive/Desktop/projetobac/projetoback/app.js:171:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async gerenciarEntidade (file:///C:/Users/kauan/OneDrive/Desktop/projetobac/projetoback/app.js:319:7)
+    at async main (file:///C:/Users/kauan/OneDrive/Desktop/projetobac/projetoback/app.js:360:9)
+
+[2025-06-06T22:02:17.510Z] BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+    at new ObjectId (C:\Users\kauan\OneDrive\Desktop\projetobac\projetoback\node_modules\bson\lib\bson.cjs:2538:23)
+    at Playlist.addVideo (file:///C:/Users/kauan/OneDrive/Desktop/projetobac/projetoback/src/playlist.js:52:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async adicionarVideoAPlaylist (file:///C:/Users/kauan/OneDrive/Desktop/projetobac/projetoback/app.js:367:25)
+    at async gerenciarEntidade (file:///C:/Users/kauan/OneDrive/Desktop/projetobac/projetoback/app.js:454:7)
+    at async main (file:///C:/Users/kauan/OneDrive/Desktop/projetobac/projetoback/app.js:487:17)
+

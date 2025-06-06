@@ -1,15 +1,19 @@
-streaming-videos/
-│
-├── src/
-│   ├── db.js              # Conexão com MongoDB
-│   ├── Video.js           # Classe Vídeo
-│   ├── User.js            # Classe Usuário (opcional)
-│   ├── Logger.js          # Classe para log de erros em arquivo
+├── backup-streamingDB
 │
 ├── logs/
-│    └── errors.log         # Arquivo para logs de erros
+│    └── errors.log
+│ 
+├── node_modules/
+│    
+├── src/
+│   ├── db.js
+│   ├── Video.js
+│   ├── User.js
+│   ├── Logger.js
+│   └── Playlist.js         
 │
-├──estrutura.markdown
+├── .gitignore              
+├── estrutura.markdown
 ├── package-lock.json
 ├── package.json
 └── README.md

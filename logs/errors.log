@@ -1,0 +1,21 @@
+[2025-06-05T23:23:58.756Z] BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+    at new ObjectId (C:\Users\kauan\OneDrive\Desktop\projetoback\node_modules\bson\lib\bson.cjs:2538:23)
+    at Video.deleteById (file:///C:/Users/kauan/OneDrive/Desktop/projetoback/src/video.js:74:81)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async deletarVideo (file:///C:/Users/kauan/OneDrive/Desktop/projetoback/app.js:79:21)
+    at async main (file:///C:/Users/kauan/OneDrive/Desktop/projetoback/app.js:189:9)
+
+[2025-06-06T00:03:24.142Z] Error: Duração do vídeo é obrigatória e deve ser um número positivo.
+    at Video.validate (file:///C:/Users/kauan/OneDrive/Desktop/projetoback/src/video.js:24:13)
+    at Video.save (file:///C:/Users/kauan/OneDrive/Desktop/projetoback/src/video.js:30:12)
+    at inserirVideo (file:///C:/Users/kauan/OneDrive/Desktop/projetoback/app.js:35:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (file:///C:/Users/kauan/OneDrive/Desktop/projetoback/app.js:180:9)
+
+[2025-06-06T00:04:53.251Z] Error: Duração do vídeo é obrigatória e deve ser um número positivo.
+    at Video.validate (file:///C:/Users/kauan/OneDrive/Desktop/projetoback/src/video.js:24:13)
+    at Video.save (file:///C:/Users/kauan/OneDrive/Desktop/projetoback/src/video.js:30:12)
+    at inserirVideo (file:///C:/Users/kauan/OneDrive/Desktop/projetoback/app.js:35:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (file:///C:/Users/kauan/OneDrive/Desktop/projetoback/app.js:180:9)
+
